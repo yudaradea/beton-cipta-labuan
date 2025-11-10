@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body.no-scroll {
+  overflow: hidden !important;
+}
+
+.active {
+  @apply text-primary;
+}
+
+html {
+  scroll-behavior: smooth;
+}
