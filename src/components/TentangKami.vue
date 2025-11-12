@@ -37,25 +37,29 @@ onUnmounted(() => {
         <p
           class="py-2 text-sm leading-relaxed text-justify md:text-base md:leading-relaxed"
         >
-          Secara resmi perusahaan ini berdiri dengan nama
-          <span class="font-bold">CV. BANTEN MINERAL SEJAHTERA</span> . Banten
-          Mineral Sejahtera perusahaan Raw Material Supplier yang memiliki
-          pengalaman dan kompetensi di bidangnya, serta mampu mengikuti
-          perkembangan teknologi sebagai standar prosesnya. Selain menyediakan
-          material beton dan produk konstruksi berkualitas tinggi, Banten
-          Mineral Sejahtera juga mengandalkan sumber daya manusia yang
-          profesional untuk memberikan pelayanan terbaik guna menjamin kepuasan
-          pelanggan.
+          <span class="font-bold">PT BETON CIPTA LABUAN</span> berdiri sebagai
+          bagian dari penguatan rantai pasok dan layanan konstruksi yang telah
+          dijalankan oleh dua perusahaan sebelumnya, yaitu
+          <span class="font-bold uppercase">PT Alin Catur Amaranggana</span>
+          yang bergerak dalam bidang general contractor, serta
+          <span class="font-bold uppercase">PT Sumber Pilar Indonesia</span>
+          yang berfokus sebagai supplier material beton dan konstruksi.
+          Kombinasi pengalaman kedua perusahaan tersebut menjadi fondasi utama
+          lahirnya PT BETON CIPTA LABUAN sebagai penyedia beton siap pakai
+          <span class="italic">Ready Mix Concrete</span> dan mortar dengan
+          standar kualitas tinggi.
         </p>
         <p
           class="text-sm leading-relaxed text-justify md:text-base md:leading-relaxed"
         >
-          <span class="font-bold">Banten Mineral Sejahtera</span> mengelola
-          bisnisnya dengan profesional dan didukung oleh keterampilan manajemen
-          yang andal. Seiring perkembangan zaman dan sesuai dengan visi dan misi
-          perusahaan, Banten Mineral Sejahtera akan terus berinovasi demi
-          menjadi perusahaan Raw Material Supplier yang lebih andal dan mampu
-          menjangkau pasar nasional.
+          Seiring meningkatnya kebutuhan beton berkualitas dalam pembangunan
+          infrastruktur dan konstruksi di wilayah Banten dan sekitarnya,
+          <span class="font-bold">PT BETON CIPTA LABUAN</span> didirikan untuk
+          menghadirkan solusi yang terintegrasi—mulai dari penyediaan bahan
+          baku, proses produksi beton melalui sistem batching plant, hingga
+          pengiriman ke lokasi proyek. Pendekatan ini memungkinkan kami
+          memberikan layanan yang lebih efisien, tepat waktu, dan sesuai
+          spesifikasi teknis lapangan.
         </p>
 
         <div class="pt-6">
@@ -65,21 +69,39 @@ onUnmounted(() => {
           >
             <div class="w-full italic">
               <p class="text-[13px] leading-relaxed text-justify">
-                Hingga saat ini Banten Mineral Sejahtera telah menjalin kerja
-                sama dengan berbagai pihak, baik pemerintah maupun
-                non-pemerintahan, dan meyakini bahwa peluang bisnis di bidang
-                penyediaan bahan baku cukup baik, berkelanjutan dan berjangka
-                panjang.
+                Dalam pengembangan usaha di bidang Industri Beton Siap Pakai,
+                <span class="font-bold">PT Beton Cipta Labuan</span> memahami
+                bahwa keberhasilan proyek konstruksi tidak hanya ditentukan oleh
+                kualitas produk, tetapi juga oleh kemitraan dan sinergi dengan
+                berbagai pemangku kepentingan. Oleh karena itu, kami senantiasa
+                membangun hubungan kerja yang kuat dan saling menguntungkan
+                dengan sektor Swasta maupun Pemerintah.
               </p>
               <p class="text-[13px] leading-relaxed text-justify pt-2">
-                Hal ini di sebabkan oleh terus meningkatnya kebutuhan akan bahan
-                baku beton dan material bangunan di bidang konstruksi karena
-                merupakan bahan utama konstruksi. Sebagai perusahaan yang
-                bergerak di bidang ini, perusahaan akan terus berkomitmen untuk
-                lebih mengembangkan bisnis dengan model kerja dan kerjasama yang
-                baik dan tepat guna sehingga dapat memberikan manfaat bagi semua
-                pihak yang terlibat.
+                Melalui kolaborasi yang harmonis,
+                <span class="font-bold">PT Beton Cipta Labuan</span> mampu
+                menyediakan dukungan material dan layanan teknis yang sesuai
+                dengan kebutuhan proyek, baik dalam skala pembangunan komersial,
+                pemukiman, fasilitas industri, hingga proyek infrastruktur
+                publik.
               </p>
+              <div class="text-[13px] leading-relaxed text-justify pt-2">
+                <span class="not-italic"
+                  >Komitmen ini kami wujudkan melalui:</span
+                >
+                <ul
+                  class="pt-1 list-disc list-inside text-[13px] leading-relaxed text-justify"
+                >
+                  <li>
+                    Transparansi dan profesionalitas dalam setiap proses kerja
+                  </li>
+                  <li>Pelayanan yang responsif dan terkoordinasi</li>
+                  <li>Kualitas beton yang konsisten dan terjamin</li>
+                  <li>
+                    Kesiapan mendukung proyek dalam berbagai kondisi lapangan
+                  </li>
+                </ul>
+              </div>
             </div>
           </div>
         </div>

@@ -1,16 +1,20 @@
+<script setup lang="ts">
+import SubTitle from './SubTitle.vue';
+import Title from './Title.vue';
+</script>
+
 <template>
   <div class="container mt-10 lg:mt-14">
-    <h2 class="text-2xl font-semibold text-center lg:text-3xl">
-      Kebijakan Mutu
-    </h2>
+    <SubTitle :title="'Kebijakan Mutu'" />
     <p
       class="mt-2 text-sm leading-relaxed text-justify lg:w-[90%] lg:mx-auto lg:text-center"
     >
-      Banten Mineral Sejahtera dalam mengelola dan mengembangkan kegiatannya
-      sebagai perusahaan yang bergerak di bidang Raw Material Supplier,
-      berkomitmen untuk mengutamakan nilai kepuasan pelanggan dengan
-      memperhatikan dan menghormati kualitas. Berikut merupakan komitmen Banten
-      Mineral Sejahtera.
+      <span class="font-bold">PT Beton Cipta Labuan</span> dalam mengelola dan
+      mengembangkan kegiatannya sebagai perusahaan yang bergerak di bidang
+      Industri Beton Siap Pakai dan Mortar, berkomitmen untuk mengutamakan
+      kepuasan pelanggan melalui penerapan standar kualitas yang konsisten serta
+      penggunaan material dan teknologi yang terjamin mutunya. Berikut merupakan
+      komitmen PT Beton Cipta Labuan.
     </p>
 
     <div
@@ -24,7 +28,10 @@
           <img src="../assets/images/safety.png" alt="" />
         </div>
         <p class="mt-3 mb-1.5 text-lg font-semibold">Safety</p>
-        <p class="text-sm text-center">Mensejahterakan sumber daya manusia</p>
+        <p class="text-xs text-center">
+          Mengutamakan kesejahteraan sumber daya manusia dengan menciptakan
+          lingkungan kerja yang aman, sehat, dan berkeselamatan.
+        </p>
       </div>
 
       <div
@@ -33,8 +40,8 @@
         <div class="w-[60px]">
           <img src="../assets/images/inovasi.png" alt="" />
         </div>
-        <p class="mt-3 mb-1.5 text-lg font-semibold">Inovasi</p>
-        <p class="text-sm text-center">
+        <p class="mt-3 mb-1.5 text-lg font-semibold">Innovation</p>
+        <p class="text-xs text-center">
           Terus berinovasi untuk mengembangkan produk dan sistem
         </p>
       </div>
@@ -45,9 +52,11 @@
         <div class="w-[60px]">
           <img src="../assets/images/profesional.png" alt="" />
         </div>
-        <p class="mt-3 mb-1.5 text-lg font-semibold">Profesional</p>
-        <p class="text-sm text-center">
-          Profesional dalam peningkatan kepuasan pelanggan
+        <p class="mt-3 mb-1.5 text-lg font-semibold">Professionalism</p>
+        <p class="text-xs text-center">
+          Menjaga profesionalitas dengan memberikan pelayanan terbaik kepada
+          pelanggan serta mematuhi standar teknis dan peraturan pemerintah yang
+          berlaku.
         </p>
       </div>
 
@@ -58,8 +67,9 @@
           <img src="../assets/images/synergi.png" alt="" />
         </div>
         <p class="mt-3 mb-1.5 text-lg font-semibold">Synergistic</p>
-        <p class="text-sm text-center">
-          Berupaya membangun semangat internal yang sinergistik.
+        <p class="text-xs text-center">
+          Membangun kerjasama tim yang sinergis, solid, dan berorientasi pada
+          kualitas
         </p>
       </div>
 
@@ -69,9 +79,10 @@
         <div class="w-[60px]">
           <img src="../assets/images/capable.png" alt="" />
         </div>
-        <p class="mt-3 mb-1.5 text-lg font-semibold">Capable</p>
-        <p class="text-sm text-center">
-          Terus melakukan pengembangan perusahaan
+        <p class="mt-3 mb-1.5 text-lg font-semibold">Sustainable</p>
+        <p class="text-xs text-center">
+          Melakukan pengembangan usaha secara berkelanjutan dengan perencanaan
+          yang terarah dan peningkatan kapasitas operasional.
         </p>
       </div>
 
@@ -81,8 +92,8 @@
         <div class="w-[60px]">
           <img src="../assets/images/relateble.png" alt="" />
         </div>
-        <p class="mt-3 mb-1.5 text-lg font-semibold">Relatable</p>
-        <p class="text-sm text-center">
+        <p class="mt-3 mb-1.5 text-lg font-semibold">Fair Value</p>
+        <p class="text-xs text-center">
           Menawarkan harga yang wajar dan kompetitif
         </p>
       </div>

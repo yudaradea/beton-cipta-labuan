@@ -2,6 +2,7 @@
 import Title from './Title.vue';
 import KebijakanMutu from './KebijakanMutu.vue';
 import Partner from './Partner.vue';
+import SubTitle from './SubTitle.vue';
 </script>
 
 <template>
@@ -9,13 +10,13 @@ import Partner from './Partner.vue';
     id="tentangKami"
     class="pt-10 pb-12 bg-white md:pt-12 md:pb-14 lg:pt-14 lg:pb-16"
   >
-    <Title :title="'Kenapa Memilih Kami'" />
+    <SubTitle :title="'Kenapa Memilih Kami'" />
     <p
       class="container mt-3 text-xs md:text-sm text-center lg:w-[50%] capitalize"
     >
-      KEYAKINAN, FILOSOFI, DAN PRINSIP YANG MENDORONG BISNIS DAN KINERJA
-      PERUSAHAAN KAMI ADALAH INTEGRITAS, AKUNTABILITAS, KOLABORASI DAN
-      IMPROVEMENT.
+      Keyakinan, filosofi, dan prinsip yang mendorong bisnis dan kinerja
+      perusahaan kami adalah integritas, akuntabilitas, kolaborasi dan
+      improvement.
     </p>
 
     <div

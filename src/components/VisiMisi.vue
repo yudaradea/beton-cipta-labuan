@@ -16,9 +16,9 @@
             <p class="px-0.5">01</p>
           </div>
 
-          <p class="text-sm text-justify">
-            Menjadi Raw Material Supplier yang profesional, tumbuh dan maju
-            seiringan dengan perkembangan Indonesia.
+          <p class="text-sm md:text-justify">
+            Menjadi penyedia solusi beton siap pakai dan mortar yang terpercaya
+            dengan standar kualitas tinggi di tingkat regional maupun nasional.
           </p>
         </div>
         <div class="flex items-start gap-4">
@@ -28,9 +28,9 @@
             <p class="">02</p>
           </div>
 
-          <p class="text-sm text-justify">
-            Menjadi Raw Material Supplier terpercaya yang dapat di andalkan oleh
-            dunia usaha dan kontraktor di Indonesia.
+          <p class="text-sm md:text-justify">
+            Mewujudkan layanan konstruksi yang profesional, cepat, dan tepat
+            melalui penerapan teknologi modern dan sistem kerja yang efisien.
           </p>
         </div>
         <div class="flex items-start gap-4">
@@ -40,9 +40,10 @@
             <p class="">03</p>
           </div>
 
-          <p class="text-sm text-justify">
-            Menjadi Raw Material Supplier yang terintegrasi untuk menjadi
-            supplier kebanggaan Indonesia.
+          <p class="text-sm md:text-justify">
+            Mendorong pertumbuhan usaha yang berkelanjutan dengan menjunjung
+            tinggi integritas, keselamatan kerja, dan tanggung jawab terhadap
+            lingkungan.
           </p>
         </div>
       </div>
@@ -62,9 +63,10 @@
             <p class="px-0.5">01</p>
           </div>
 
-          <p class="text-sm text-justify">
-            Membangun sinergi untuk menciptakan konsep pembaruan material dengan
-            meningkatkan hasil kualitas .
+          <p class="text-sm md:text-justify">
+            Meningkatkan kompetensi sumber daya manusia melalui pelatihan
+            berkelanjutan, pengembangan keterampilan, dan penerapan budaya kerja
+            profesional, berintegritas, dan berkeselamatan.
           </p>
         </div>
         <div class="flex items-start gap-4">
@@ -74,9 +76,11 @@
             <p class="">02</p>
           </div>
 
-          <p class="text-sm text-justify">
-            Menjalankan usaha sebagai raw material supplier untuk usaha
-            pembuatan beton dan semen untuk meningkatkan nilai investasi .
+          <p class="text-sm md:text-justify">
+            Memproduksi beton dan mortar berkualitas tinggi melalui pengendalian
+            mutu yang konsisten, pemilihan material terbaik, dan penggunaan
+            teknologi produksi yang terstandarisasi untuk memastikan hasil yang
+            kuat, stabil, dan sesuai spesifikasi.
           </p>
         </div>
         <div class="flex items-start gap-4">
@@ -86,11 +90,24 @@
             <p class="">03</p>
           </div>
 
-          <p class="text-sm text-justify">
-            Menjalankan usaha sebagai raw material supplier untuk usaha
-            pembuatan beton dan semen untuk meningkatkan nilai investasi
-            pemegang saham, mitra kerja dan masyarakat serta meningkatkan
-            kesejahteraan staff dan karyawan.
+          <p class="text-sm md:text-justify">
+            Memberikan pelayanan yang cepat dan tepat, dengan menjamin
+            kelancaran distribusi dan ketepatan waktu pengiriman, serta respons
+            layanan yang berorientasi pada kebutuhan dan kepuasan pelanggan.
+          </p>
+        </div>
+        <div class="flex items-start gap-4">
+          <div
+            class="flex items-center justify-center p-2 mt-[2.5px] rounded-lg bg-primary"
+          >
+            <p class="">04</p>
+          </div>
+
+          <p class="text-sm md:text-justify">
+            Mengembangkan usaha secara berkelanjutan dengan menjaga efisiensi
+            operasional, memperhatikan keselamatan kerja, serta menjalankan
+            tanggung jawab sosial dan lingkungan dalam setiap kegiatan
+            perusahaan.
           </p>
         </div>
       </div>

@@ -46,7 +46,7 @@ onUnmounted(() => {
     ref="section"
     class="pt-10 pb-12 bg-gray-100 md:pt-12 md:pb-14 lg:pt-14 lg:pb-16"
   >
-    <Title :title="'Produk Material'" />
+    <Title :title="'Produk Kami'" />
 
     <div
       class="container grid grid-cols-2 mt-8 gap-x-4 gap-y-6 md:mt-10 md:grid-col-3 lg:grid-cols-4"
@@ -57,7 +57,7 @@ onUnmounted(() => {
         class="relative flex flex-col border-2 rounded-lg shadow-sm border-primary"
       >
         <i
-          class="absolute text-4xl -top-2 left-2 md:left-3 fa-solid fa-bookmark text-primary"
+          class="absolute text-4xl text-pink-800 -top-2 left-2 md:left-3 fa-solid fa-bookmark"
         ></i>
         <img
           :src="getImageUrl(product.img)"

@@ -4,15 +4,16 @@ import { Swiper, SwiperSlide } from 'swiper/vue';
 import { Autoplay } from 'swiper/modules';
 import 'swiper/css/bundle';
 import partners from '../data/partner.json';
+import SubTitle from './SubTitle.vue';
 function getImageUrl(img) {
   return new URL(`../assets/images/${img}`, import.meta.url).href;
 }
 </script>
 
 <template>
-  <h1 class="mt-10 text-2xl font-semibold text-center lg:text-3xl lg:mt-12">
-    Partnership
-  </h1>
+  <div class="mt-10">
+    <SubTitle :title="'Rekanan Kami'" />
+  </div>
   <p class="container mt-2 text-sm leading-relaxed text-center lg:w-1/2">
     Adapun perusahaan rekanan yang selama ini banyak berhubungan dengan
     perusahaan ini antara lain adalah sebagai berikut
@@ -27,10 +28,10 @@ function getImageUrl(img) {
     :autoplay="{ delay: 0, disableOnInteraction: false }"
     :breakpoints="{
       1024: {
-        slidesPerView: 5,
+        slidesPerView: 4,
       },
       600: {
-        slidesPerView: 4,
+        slidesPerView: 3,
       },
     }"
     class="mt-6 md:mt-7"

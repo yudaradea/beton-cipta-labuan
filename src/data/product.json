@@ -1,50 +1,74 @@
 [
   {
     "id": 1,
-    "img": "pasir-slag.jpg",
-    "title": "Pasir Slag",
-    "desc": "Pasir slag adalah bahan konstruksi yang dibuat dari hasil daur ulang terak, yaitu produk sampingan dari industri pemurnian logam, khususnya pemurnian besi. Terak adalah materi yang muncul ketika bijih besi dilebur untuk memisahkan logam besi dari kotoran dan impuritasnya."
+    "img": "locoocrete.png",
+    "title": "LocooCrete",
+    "desc": "Beton untuk aplikasi umum dengan mutu stabil dan mudah diaplikasikan. Cocok untuk pekerjaan struktural standar seperti lantai kerja, sloof, kolom, balok, dan pelat beton pada proyek perumahan maupun bangunan komersial."
   },
   {
     "id": 2,
-    "img": "pasir-cuci-cilegon.jpg",
-    "title": "Pasir Cuci Cilegon",
-    "desc": "Pasir Cuci Cilegon merupakan pasir yang diambil langsung dari Cilegon, Banten. Pasir ini terlebih dahulu dicuci untuk dibersihkan agar menghasilkan pasir yang berkualitas. Pasir ini mengandung mineral-mineral berkualitas tinggi dan bermanfaat sehingga menjadikannya sebagai bahan baku utama berbagai aplikasi industri pada proyek konstruksi seperti konstruksi bangunan, pembangunan jalan dan lainnya."
+    "img": "thrucrete.png",
+    "title": "ThruCrete",
+    "desc": "Beton berpori yang dirancang untuk drainase air permukaan, sehingga mengurangi genangan. Ideal untuk area parkir, taman kota, jalur pedestrian, dan kawasan resapan air."
   },
   {
     "id": 3,
-    "img": "pasir-bangka.png",
-    "title": "Pasir Bangka",
-    "desc": "Pasir Bangka adalah salah satu jenis pasir yang berasal dari Pulau Bangka, Indonesia. Pasir jenis ini dikenal memiliki kualitas yang baik karena teksturnya halus, bersih, dan warnanya cerah. Pasir Bangka juga memiliki daya tahan yang baik dan mudah dibentuk sehingga sering digunakan di berbagai industri."
+    "img": "dekocrete.png",
+    "title": "DekoCrete",
+    "desc": "Beton dekoratif dengan tampilan permukaan yang estetis dan menarik, tersedia dalam berbagai motif finishing. Cocok untuk area landscape, trotoar, plaza, dan area publik yang memerlukan nilai visual."
   },
   {
     "id": 4,
-    "img": "pasir-jalupang.jpg",
-    "title": "Pasir Cuci Jalupang",
-    "desc": "Pasir Jawilan/Jalupang merupakan salah satu jenis pasir yang berasal dari provinsi Banten, selain pasir Cilegon dan pasir Rangkas. Pasir jenis ini ditambang di daerah pegunungan dan banyak mengandung silika sehingga mudah bercampur dengan semen. Pasir ini berwarna coklat dan teksturnya halus."
+    "img": "speedcrete.png",
+    "title": "SpeedCrete",
+    "desc": "Beton dengan waktu pengerasan cepat untuk pekerjaan yang menuntut percepatan waktu konstruksi. Sangat sesuai untuk perbaikan jalan, pekerjaan darurat, dan proyek yang harus segera difungsikan."
   },
   {
     "id": 5,
-    "img": "batu-base-course.jpg",
-    "title": "Batu Base Course",
-    "desc": "Base Course atau Lapis Pondasi  Agregat adalah material granular yang terdiri dari batu pecah dengan gradasi tertentu yang akan digunakan sebagai pondasi jalan sebelum diberi perkerasan aspal / beton. Base Course juga merupakan material yang paling baik untuk pekerjaan pengurugan bangunan."
+    "img": "comfilplas.png",
+    "title": "ComfilPlas",
+    "desc": "Mortar busa ringan dengan stabilitas tinggi untuk timbunan ringan pada area yang memiliki keterbatasan daya dukung tanah. Banyak digunakan pada proyek perbaikan jalan, void filling, dan area bekas galian pipa."
   },
   {
     "id": 6,
-    "img": "batu-split-23.jpg",
-    "title": "Batu split 2-3",
-    "desc": "Batu split 2-3 adalah salah satu jenis batu pecah yang berukuran 2 hingga 3 inci. Batu split 2-3 sering digunakan untuk keperluan konstruksi seperti pembangunan jalan, paving, konstruksi bangunan, dan lain sebagainya."
+    "img": "optimacrete.png",
+    "title": "OptimaCrete",
+    "desc": "Beton berkekuatan tinggi dengan kinerja unggul untuk struktur berat seperti gedung bertingkat, jembatan, dan fondasi besar. Dirancang untuk mencapai kuat tekan tinggi dengan ketahanan maksimal."
   },
   {
     "id": 7,
-    "img": "batu-split-e1695205119275.webp",
-    "title": "Batu split 1-2",
-    "desc": "Batu split ukuran 1-2 merupakan bahan konstruksi yang terbuat dari potongan batu alam berukuran 1 sampai 2 inci (atau sekitar 25 sampai 50 mm). Batuan split biasanya dihasilkan dengan memecahkan batu besar menggunakan mesin penghancur atau peralatan pemecah batu lainnya."
+    "img": "stillcrete.png",
+    "title": "StillCrete",
+    "desc": "Beton dengan ketahanan terhadap lingkungan ekstrem seperti air laut, kelembapan tinggi, lingkungan korosif, dan paparan cuaca. Cocok untuk kawasan pesisir, pelabuhan, dan konstruksi maritim."
   },
   {
     "id": 8,
-    "img": "slagsemen1-1.webp",
-    "title": "GGBFS Slag Semen",
-    "desc": "Semen slag atau GGBFS (Ground Granulated Blast Furnace Slag) adalah bahan alternatif yang ramah lingkungan untk membuat semen komposit yang berperforma tinggi. Bahan ini merupakan hasil dari pengolahan limbah industri baja menjadi alternatif yang populer karena proses produksinya lebih murah dibandingkan dengan semen Portland (PC)."
+    "img": "aeercrete.png",
+    "title": "AeerCrete",
+    "desc": "Beton khusus untuk pekerjaan pengecoran bawah air tanpa menimbulkan pencampuran air dan beton saat proses penuangan. Umumnya digunakan pada sungai, dermaga, pondasi jembatan, dan struktur air."
+  },
+  {
+    "id": 9,
+    "img": "supecrete.png",
+    "title": "SupeCrete",
+    "desc": "Beton cepat kering dengan kuat lentur awal tinggi, sangat cocok untuk pekerjaan yang memerlukan pembukaan akses atau mobilisasi cepat pasca pengecoran."
+  },
+  {
+    "id": 10,
+    "img": "ezyflocrete.png",
+    "title": "EzyFloCrete",
+    "desc": "Beton self-compacting (SCC) yang dapat mengisi cetakan kompleks tanpa memerlukan pemadatan manual. Solusi ideal untuk area yang sulit dijangkau vibrator atau bekisting padat."
+  },
+  {
+    "id": 11,
+    "img": "apexcrete.png",
+    "title": "ApexCrete",
+    "desc": "Beton untuk aplikasi lantai dengan permukaan super rata (superflat floor), biasanya digunakan untuk area pabrik industri, warehouse modern, gudang logistik, dan fasilitas forklift high-precision."
+  },
+  {
+    "id": 12,
+    "img": "minimix.png",
+    "title": "MiniMix",
+    "desc": "Pelayanan beton menggunakan truck mixer berukuran kecil, memungkinkan akses mudah di kawasan pemukiman, gang sempit, atau lokasi proyek terbatas. Solusi efisien untuk pembangunan rumah dan renovasi."
   }
 ]
