@@ -4,6 +4,7 @@ import Title from './Title.vue';
 import Modal from './Modal.vue';
 import products from '../data/product.json';
 import Sertifikat from './Sertifikat.vue';
+import Mutu from './Mutu.vue';
 
 const isOpenModal = ref(false);
 const modalData = ref({});
@@ -86,6 +87,8 @@ onUnmounted(() => {
       :modalData="modalData"
       @closeModal="closeModal"
     />
+
+    <Mutu />
 
     <Sertifikat />
   </section>

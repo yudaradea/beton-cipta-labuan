@@ -79,7 +79,7 @@ onUnmounted(() => {
     </swiper>
     <div class="flex justify-center mt-6 lg:mt-8">
       <a
-        href="whatsapp://send?text=Hello&phone=+6287772333634"
+        href="whatsapp://send?text=Hello&phone=+6285222271978"
         target="_blank"
         class="px-4 py-1.5 shadow-md border border-primary rounded-md bg-primary hover:bg-transparent hover:shadow-md transition-all duration-300 font-medium"
         ><i class="fa-solid fa-phone mr-1 pt-[2px]"></i> Hubungi Kami
