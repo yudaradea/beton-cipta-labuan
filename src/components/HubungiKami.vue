@@ -37,7 +37,9 @@ onUnmounted(() => {
         <div class="flex items-start gap-4 md:text-lg">
           <i class="text-2xl fa-solid fa-phone"></i>
           <span class="font-semibold"
-            ><a href="https://wa.me/6281234567890" target="_blank"
+            ><a
+              href="whatsapp://send?text=Hello&phone=+6285222271978"
+              target="_blank"
               >+62 852-2227-1978</a
             ></span
           >

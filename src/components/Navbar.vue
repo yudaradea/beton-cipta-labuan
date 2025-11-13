@@ -47,7 +47,9 @@ onUnmounted(() => {
         <div class="flex items-center gap-1">
           <i class="text-base fa-solid fa-phone mt-[1px]"></i>
           <!-- link ke whatsapp -->
-          <a href="https://wa.me/6281234567890" target="_blank"
+          <a
+            href="whatsapp://send?text=Hello&phone=+6285222271978"
+            target="_blank"
             >+62 852-2227-1978</a
           >
         </div>
